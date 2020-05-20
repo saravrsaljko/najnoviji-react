@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/najnoviji-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/najnoviji-react/static/js/main.4cda8fe6.chunk.js",
+    "main.js.map": "/najnoviji-react/static/js/main.4cda8fe6.chunk.js.map",
+    "runtime-main.js": "/najnoviji-react/static/js/runtime-main.de5b1c22.js",
+    "runtime-main.js.map": "/najnoviji-react/static/js/runtime-main.de5b1c22.js.map",
+    "static/js/2.a3a21694.chunk.js": "/najnoviji-react/static/js/2.a3a21694.chunk.js",
+    "static/js/2.a3a21694.chunk.js.map": "/najnoviji-react/static/js/2.a3a21694.chunk.js.map",
+    "index.html": "/najnoviji-react/index.html",
+    "precache-manifest.b75ceb094d6ad2e2c46bca14aa351f2d.js": "/najnoviji-react/precache-manifest.b75ceb094d6ad2e2c46bca14aa351f2d.js",
+    "service-worker.js": "/najnoviji-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/najnoviji-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a3a21694.chunk.js.LICENSE.txt": "/najnoviji-react/static/js/2.a3a21694.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5b1c22.js",
+    "static/js/2.a3a21694.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4cda8fe6.chunk.js"
+  ]
+}
